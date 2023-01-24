@@ -1,2 +1,2 @@
-# HTML
- HTML 학습 정리
+# HTML, CSS
+ HTML,CSS 학습 정리
